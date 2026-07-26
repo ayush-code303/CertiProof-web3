@@ -116,9 +116,6 @@ Distributed under the **MIT License**. See the `LICENSE` file for more informati
 
 <div align="center">
 
-### Built with ❤️ by the CertiProof Team
-*"Securing the future of credentials, one block at a time."*
-
 ⭐ **If you find this project useful, please consider giving it a star!** ⭐
 
 </div>
